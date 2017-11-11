@@ -1,0 +1,44 @@
+body{
+  font-family: sans-serif;
+  color: white;
+  background: #222;
+}
+nav{
+  float: right;
+  margin-right: 10px;
+}
+nav li{
+  display: inline-block;
+  padding-right: 10px;
+}
+nav a{
+  color: white;
+}
+section h1{
+  font-size: 50px;
+  text-align: center;
+  clear: both;
+}
+section img{
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+section p{
+  font-size: 20px;
+}
+footer{
+  margin-top: 10px;
+  background: #333;
+  padding: 10px;
+}
+footer p{
+  text-align: center;
+}
+.wrapper{
+  margin: 10px;
+  padding: 10px;
+}
+.design{
+  font-family: cursive;
+}
